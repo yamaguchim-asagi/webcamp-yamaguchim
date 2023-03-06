@@ -1,4 +1,4 @@
-##　DMM WEBCAMPコンテンツ　【HTML/CSSを学ぼう】
+## DMM WEBCAMPコンテンツ　【HTML/CSSを学ぼう】
 DMM WEBCAMPの学習コンテンツHTML/CSSを学ぼうの研修課題です。
 作成者: 山口将也
 ## 使い方　
